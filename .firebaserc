@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "clientpanelprod-bf7ae": {
+      "hosting": {
+        "clientpanel": [
+          "clientpanelprod-bf7ae"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "clientpanelprod-bf7ae"
+  }
+}
